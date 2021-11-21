@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+    /* background-color: antiquewhite; */
+    background-image: url(../img/dc912e5e8184a2cf11e659e0b1d0ce09.jpg);
+    
+}
+
+#img-one{
+   border-radius: 191px 0px 191px 0;
+   overflow: hidden;
+   height: 70%;
+   width: 100%;
+}
+ #sec{
+    background: rgba(187, 182, 160, 0.486) !important;
+    padding: 5%  5% ;
+    border-radius: 100px 0 30px 30px ;
+    margin: 5%;
+    margin-top: 0;
+} 
+.nav-link:hover
+{
+    text-decoration: underline solid #8b3330 2px; 
+    
+    
+
+}
+.nav-link{
+    margin-left: 8px;
+    
+}
+#marque{
+    margin-left: 9%;
+}
